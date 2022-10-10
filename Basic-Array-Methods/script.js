@@ -76,7 +76,7 @@ console.log(cousins.includes("10")); //output => false
 
 // 7) How can we use includes method in "if/else" statement:
 
-// "includes" method is very useful and we can use this in "if/else" statement. For-example
+// "includes" method is really useful and we can use this in "if/else" statement. For-example
 
 if (cousins.includes("David")) {
   console.log("David is your cousin and he also a part of an an array.");
